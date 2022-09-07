@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y2/f3ywscyLdd2uOE1Sisw3MjOC+7igFqsT5R5mcn2HDC5EetKotZ2fwgHhuy2UseizlR2zMCnkHk20WR3c3XQ==",
+  "success": true,
+  "projectFilePath": "/home/ivanzerg/Documents/university/5sem/numMethods/1pz/1pz.csproj",
+  "expectedPackageFiles": [
+    "/home/ivanzerg/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

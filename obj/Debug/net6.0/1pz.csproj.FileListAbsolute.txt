@@ -1,0 +1,15 @@
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/bin/Debug/net6.0/1pz
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/bin/Debug/net6.0/1pz.deps.json
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/bin/Debug/net6.0/1pz.runtimeconfig.json
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/bin/Debug/net6.0/1pz.dll
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/bin/Debug/net6.0/ref/1pz.dll
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/bin/Debug/net6.0/1pz.pdb
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/obj/Debug/net6.0/1pz.csproj.AssemblyReference.cache
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/obj/Debug/net6.0/1pz.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/obj/Debug/net6.0/1pz.AssemblyInfoInputs.cache
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/obj/Debug/net6.0/1pz.AssemblyInfo.cs
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/obj/Debug/net6.0/1pz.csproj.CoreCompileInputs.cache
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/obj/Debug/net6.0/1pz.dll
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/obj/Debug/net6.0/ref/1pz.dll
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/obj/Debug/net6.0/1pz.pdb
+/home/ivanzerg/Documents/university/5sem/numMethods/1pz/obj/Debug/net6.0/1pz.genruntimeconfig.cache
